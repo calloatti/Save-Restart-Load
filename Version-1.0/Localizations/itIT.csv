@@ -1,0 +1,4 @@
+ID,Text,Comment
+Calloatti.SaveRestartLoad.Button.RestartLoad,"Riavvia + Carica",
+Calloatti.SaveRestartLoad.Button.SaveRestartLoad,"Salva + Riavvia + Carica",
+Calloatti.SaveRestartLoad.Message.NoSaveReference,"Non esiste un gioco salvato da riavviare e caricare.",

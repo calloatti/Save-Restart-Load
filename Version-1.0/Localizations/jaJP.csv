@@ -1,0 +1,4 @@
+ID,Text,Comment
+Calloatti.SaveRestartLoad.Button.RestartLoad,"再起動 + 読み込み",
+Calloatti.SaveRestartLoad.Button.SaveRestartLoad,"保存 + 再起動 + 読み込み",
+Calloatti.SaveRestartLoad.Message.NoSaveReference,"再起動して読み込む保存済みゲームがありません。",

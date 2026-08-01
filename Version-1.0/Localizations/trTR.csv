@@ -1,0 +1,4 @@
+ID,Text,Comment
+Calloatti.SaveRestartLoad.Button.RestartLoad,"Yeniden Başlat + Yükle",
+Calloatti.SaveRestartLoad.Button.SaveRestartLoad,"Kaydet + Yeniden Başlat + Yükle",
+Calloatti.SaveRestartLoad.Message.NoSaveReference,"Yeniden başlatılıp yüklenecek kayıtlı bir oyun yok.",

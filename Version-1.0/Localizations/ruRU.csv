@@ -1,0 +1,4 @@
+ID,Text,Comment
+Calloatti.SaveRestartLoad.Button.RestartLoad,"Перезапустить + Загрузить",
+Calloatti.SaveRestartLoad.Button.SaveRestartLoad,"Сохранить + Перезапустить + Загрузить",
+Calloatti.SaveRestartLoad.Message.NoSaveReference,"Нет сохранённой игры для перезапуска и загрузки.",

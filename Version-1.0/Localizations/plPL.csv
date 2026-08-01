@@ -1,0 +1,4 @@
+ID,Text,Comment
+Calloatti.SaveRestartLoad.Button.RestartLoad,"Uruchom ponownie + Wczytaj",
+Calloatti.SaveRestartLoad.Button.SaveRestartLoad,"Zapisz + Uruchom ponownie + Wczytaj",
+Calloatti.SaveRestartLoad.Message.NoSaveReference,"Nie ma zapisanej gry do ponownego uruchomienia i wczytania.",

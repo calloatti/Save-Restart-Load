@@ -1,0 +1,4 @@
+ID,Text,Comment
+Calloatti.SaveRestartLoad.Button.RestartLoad,"รีสตาร์ท + โหลด",
+Calloatti.SaveRestartLoad.Button.SaveRestartLoad,"บันทึก + รีสตาร์ท + โหลด",
+Calloatti.SaveRestartLoad.Message.NoSaveReference,"ไม่มีเกมที่บันทึกไว้สำหรับรีสตาร์ทและโหลด",

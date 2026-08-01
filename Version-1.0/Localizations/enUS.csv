@@ -1,0 +1,4 @@
+ID,Text,Comment
+Calloatti.SaveRestartLoad.Button.RestartLoad,"Restart + Load",
+Calloatti.SaveRestartLoad.Button.SaveRestartLoad,"Save + Restart + Load",
+Calloatti.SaveRestartLoad.Message.NoSaveReference,"There is no saved game to restart and load.",
