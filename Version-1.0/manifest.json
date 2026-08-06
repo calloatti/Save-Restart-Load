@@ -1,14 +1,9 @@
-{
+﻿{
   "Name": "Save Restart Load",
   "Version": "1.0.0",
   "Id": "calloatti.saverestartload",
   "MinimumGameVersion": "1.0.0.0",
   "Description": "Adds 'Restart + Load' and 'Save + Restart + Load' buttons to the in-game menu. Restarts the game and reloads your current save, optionally saving first without an overwrite prompt.",
-  "RequiredMods": [
-    {
-      "Id": "Harmony",
-      "MinVersion": "2.4.1"
-    }
-  ],
+  "RequiredMods": [{"Id": "Harmony", "MinVersion": "2.4.1"}],
   "OptionalMods": []
 }
