@@ -1,0 +1,1 @@
+Adds 'Restart + Load' and 'Save + Restart + Load' buttons to the in-game menu. Restarts the game and reloads your current save, optionally saving first without an overwrite prompt.

@@ -1,0 +1,17 @@
+Adds 'Restart + Load' and 'Save + Restart + Load' buttons to the in-game menu. Restarts the game and reloads your current save, optionally saving first without an overwrite prompt.
+
+[h3]Restart + Load[/h3]
+Restarts the game without saving the current game and reloads the current game
+
+[h3]Save + Restart + Load[/h3]
+Saves the current game without an overwrite warning, restarts the game and reloads the saved game.
+
+[hr][/hr]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3682179025]Mods on Steam[/url]
+
+[url=https://mod.io/u/calloatti/?_sort=name]Mods on mod-dot-io[/url]
+
+[url=https://github.com/search?q=owner%3Acalloatti+sort%3Aname-asc+%22Timberborn+Mod%22&type=repositories]Mods on Github[/url]
+
+[url=https://github.com/calloatti/ModZips]Mod zip files[/url]
+
