@@ -1,4 +1,4 @@
 ID,Text,Comment
-Calloatti.SaveRestartLoad.Button.RestartLoad,"Reiniciar + Carregar",
-Calloatti.SaveRestartLoad.Button.SaveRestartLoad,"Salvar + Reiniciar + Carregar",
-Calloatti.SaveRestartLoad.Message.NoSaveReference,"Não há jogo salvo para reiniciar e carregar.",
+Calloatti.SaveRestartLoad.Button.RestartLoad,Reiniciar + Carregar,
+Calloatti.SaveRestartLoad.Button.SaveRestartLoad,Salvar + Reiniciar + Carregar,
+Calloatti.SaveRestartLoad.Message.NoSaveReference,Não há jogo salvo para reiniciar e carregar.,

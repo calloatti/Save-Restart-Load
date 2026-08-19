@@ -96,3 +96,8 @@ The game reads these CLI args in `AutoStarter.CheckAutoStarting()` (`Timberborn.
 - Use the native Timberborn Modding System (`IModStarter`), never BepInEx.
 - User-facing text must be localized (never hardcode visible strings).
 - `-skipModManager` is required so the restarted game boots straight into the save instead of showing the mod manager screen.
+
+## Hard Rule
+DO NOT EVER TOUCH THE DEPLOY FOLDER.
+
+BUILD DOES EVERYTHING, NEVER EVER MESS WITH THE DEPLOY PROCESS.

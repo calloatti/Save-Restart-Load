@@ -1,4 +1,4 @@
 ID,Text,Comment
-Calloatti.SaveRestartLoad.Button.RestartLoad,"Neustart + Laden",
-Calloatti.SaveRestartLoad.Button.SaveRestartLoad,"Speichern + Neustart + Laden",
-Calloatti.SaveRestartLoad.Message.NoSaveReference,"Es gibt kein gespeichertes Spiel zum Neustarten und Laden.",
+Calloatti.SaveRestartLoad.Button.RestartLoad,Neustart + Laden,
+Calloatti.SaveRestartLoad.Button.SaveRestartLoad,Speichern + Neustart + Laden,
+Calloatti.SaveRestartLoad.Message.NoSaveReference,Es gibt kein gespeichertes Spiel zum Neustarten und Laden.,

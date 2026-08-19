@@ -8,6 +8,6 @@ namespace Calloatti.SaveRestartLoad;
 /// </summary>
 public class ModStarter : IModStarter {
   public void StartMod(IModEnvironment modEnvironment) {
-    new Harmony("calloatti.SaveRestartLoad").PatchAll();
+    new Harmony("calloatti.saverestartload").PatchAll();
   }
 }

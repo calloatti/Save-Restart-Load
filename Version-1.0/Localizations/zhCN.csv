@@ -1,4 +1,4 @@
 ID,Text,Comment
-Calloatti.SaveRestartLoad.Button.RestartLoad,"重新启动 + 加载",
-Calloatti.SaveRestartLoad.Button.SaveRestartLoad,"保存 + 重新启动 + 加载",
-Calloatti.SaveRestartLoad.Message.NoSaveReference,"没有已保存的游戏可供重新启动和加载。",
+Calloatti.SaveRestartLoad.Button.RestartLoad,重新启动 + 加载,
+Calloatti.SaveRestartLoad.Button.SaveRestartLoad,保存 + 重新启动 + 加载,
+Calloatti.SaveRestartLoad.Message.NoSaveReference,没有已保存的游戏可供重新启动和加载。,
