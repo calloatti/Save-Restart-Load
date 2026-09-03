@@ -1,0 +1,4 @@
+ID,Text,Comment
+Calloatti.SaveRestartLoad.Button.RestartLoad,Redémarrer + Charger,
+Calloatti.SaveRestartLoad.Button.SaveRestartLoad,Enregistrer + Redémarrer + Charger,
+Calloatti.SaveRestartLoad.Message.NoSaveReference,Il n'y a aucune partie sauvegardée à redémarrer et charger.,

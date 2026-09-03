@@ -1,0 +1,4 @@
+ID,Text,Comment
+Calloatti.SaveRestartLoad.Button.RestartLoad,Reiniciar + Cargar,
+Calloatti.SaveRestartLoad.Button.SaveRestartLoad,Guardar + Reiniciar + Cargar,
+Calloatti.SaveRestartLoad.Message.NoSaveReference,No hay ningún juego guardado para reiniciar y cargar.,

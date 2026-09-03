@@ -1,0 +1,4 @@
+ID,Text,Comment
+Calloatti.SaveRestartLoad.Button.RestartLoad,重新啟動 + 載入,
+Calloatti.SaveRestartLoad.Button.SaveRestartLoad,儲存 + 重新啟動 + 載入,
+Calloatti.SaveRestartLoad.Message.NoSaveReference,沒有已儲存的遊戲可供重新啟動和載入。,
